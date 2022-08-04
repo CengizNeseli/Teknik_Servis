@@ -1,0 +1,8 @@
+C:\Users\Asus\source\repos\Teknik_Servis\Teknik_Servis\bin\Debug\Teknik_Servis.exe.config
+C:\Users\Asus\source\repos\Teknik_Servis\Teknik_Servis\bin\Debug\Teknik_Servis.exe
+C:\Users\Asus\source\repos\Teknik_Servis\Teknik_Servis\bin\Debug\Teknik_Servis.pdb
+C:\Users\Asus\source\repos\Teknik_Servis\Teknik_Servis\obj\Debug\Teknik_Servis.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Teknik_Servis\Teknik_Servis\obj\Debug\Teknik_Servis.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\Teknik_Servis\Teknik_Servis\obj\Debug\Teknik_Servis.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Teknik_Servis\Teknik_Servis\obj\Debug\Teknik_Servis.exe
+C:\Users\Asus\source\repos\Teknik_Servis\Teknik_Servis\obj\Debug\Teknik_Servis.pdb
